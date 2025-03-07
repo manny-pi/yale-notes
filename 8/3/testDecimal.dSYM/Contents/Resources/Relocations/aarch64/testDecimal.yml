@@ -1,0 +1,22 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/Omani/Desktop/Personal/Education/computer_science/software_engineering/data_structures_and_algorithms/C/yale-notes/assignments/8/3/testDecimal'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _decimalAdd, symObjAddr: 0x0, symBinAddr: 0x100003078, symSize: 0x188 }
+  - { offsetInCU: 0x4E, offset: 0x4E, size: 0x8, addend: 0x0, symName: _Commands, symObjAddr: 0xEA0, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xDE, offset: 0xDE, size: 0x8, addend: 0x0, symName: _decimalAdd, symObjAddr: 0x0, symBinAddr: 0x100003078, symSize: 0x188 }
+  - { offsetInCU: 0x176, offset: 0x176, size: 0x8, addend: 0x0, symName: _hasBadDigit, symObjAddr: 0x188, symBinAddr: 0x100003200, symSize: 0x98 }
+  - { offsetInCU: 0x1C8, offset: 0x1C8, size: 0x8, addend: 0x0, symName: _decimalSubtract, symObjAddr: 0x220, symBinAddr: 0x100003298, symSize: 0x19C }
+  - { offsetInCU: 0x260, offset: 0x260, size: 0x8, addend: 0x0, symName: _decimalPrint, symObjAddr: 0x3BC, symBinAddr: 0x100003434, symSize: 0x124 }
+  - { offsetInCU: 0x2AE, offset: 0x2AE, size: 0x8, addend: 0x0, symName: _testEmpty, symObjAddr: 0x4E0, symBinAddr: 0x100003558, symSize: 0x20 }
+  - { offsetInCU: 0x300, offset: 0x300, size: 0x8, addend: 0x0, symName: _testPrint, symObjAddr: 0x500, symBinAddr: 0x100003578, symSize: 0x80 }
+  - { offsetInCU: 0x352, offset: 0x352, size: 0x8, addend: 0x0, symName: _testAdd, symObjAddr: 0x580, symBinAddr: 0x1000035F8, symSize: 0x7C }
+  - { offsetInCU: 0x3A4, offset: 0x3A4, size: 0x8, addend: 0x0, symName: _testSubtract, symObjAddr: 0x5FC, symBinAddr: 0x100003674, symSize: 0x7C }
+  - { offsetInCU: 0x3F6, offset: 0x3F6, size: 0x8, addend: 0x0, symName: _testAddHuge, symObjAddr: 0x678, symBinAddr: 0x1000036F0, symSize: 0x48 }
+  - { offsetInCU: 0x44D, offset: 0x44D, size: 0x8, addend: 0x0, symName: _testSubtractHuge, symObjAddr: 0x6C0, symBinAddr: 0x100003738, symSize: 0x48 }
+  - { offsetInCU: 0x4A4, offset: 0x4A4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x708, symBinAddr: 0x100003780, symSize: 0x2BC }
+  - { offsetInCU: 0x547, offset: 0x547, size: 0x8, addend: 0x0, symName: _parseArgs, symObjAddr: 0x9C4, symBinAddr: 0x100003A3C, symSize: 0x180 }
+  - { offsetInCU: 0x5C3, offset: 0x5C3, size: 0x8, addend: 0x0, symName: _parseNumber, symObjAddr: 0xB44, symBinAddr: 0x100003BBC, symSize: 0xE0 }
+  - { offsetInCU: 0x631, offset: 0x631, size: 0x8, addend: 0x0, symName: _testOp, symObjAddr: 0xC24, symBinAddr: 0x100003C9C, symSize: 0xA4 }
+  - { offsetInCU: 0x683, offset: 0x683, size: 0x8, addend: 0x0, symName: _randomArgs, symObjAddr: 0xCC8, symBinAddr: 0x100003D40, symSize: 0xE4 }
+...
